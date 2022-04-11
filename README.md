@@ -1,3 +1,3 @@
 # Sample Python Codes
 
-- [Hello world python program](/question1.md)
+- [Sum of two numbers](/questions/question1.md)
